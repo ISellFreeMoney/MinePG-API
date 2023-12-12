@@ -1,8 +1,14 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"mining",
-	"levels": [
-
-	]
+  "name": "red_sand",
+  "category": "mining",
+  "levels": [
+    [50, 5],
+    [500, "enchanted_red_sand"],
+    [2500, 250],
+    [10000, "enchanted_red_sand_cube"],
+    [15000, 1500],
+    [25000, "snail_pet"],
+    [50000, "berserker_armor"],
+    [100000, 10000]
+  ]
 }

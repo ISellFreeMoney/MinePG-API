@@ -1,0 +1,6 @@
+{
+  "name": "enchanted_titanium",
+  "category": "mining",
+  "ingredients": [{"name": "titanium", "count": 160}],
+  "result": {"name": "enchanted_titanium"}
+}

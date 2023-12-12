@@ -1,8 +1,15 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"farming",
-	"levels": [
-
-	]
+  "name": "cactus",
+  "category": "farming",
+  "levels": [
+    [100, "cactus_minion"],
+    [250, "cactus_armor"],
+    [500, 50],
+    [1000, "enchanted_cactus_green"],
+    [2500, 250],
+    [5000, "piercing_book"],
+    [10000, "thorns_book"],
+    [25000, "enchanted_cactus"],
+    [50000, 5000]
+  ]
 }

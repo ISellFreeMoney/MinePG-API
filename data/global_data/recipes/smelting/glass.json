@@ -1,0 +1,6 @@
+{
+  "name": "glass",
+  "category": "smelting",
+  "ingredients": [{"name": "sand"}],
+  "result": {"name": "glass"}
+}

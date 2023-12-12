@@ -1,0 +1,15 @@
+{
+  "name": "salmon",
+  "category": "fishing",
+  "levels": [
+    [20, "minnow_bait"],
+    [50, 5],
+    [100, "lure_book"],
+    [250, "enchanted_salmon"],
+    [500, "speedster_rod"],
+    [1000, "fish_bait"],
+    [2500, 250],
+    [5000, "enchanted_salmon"],
+    [10000, "salmon_armor"]
+  ]
+}

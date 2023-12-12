@@ -1,0 +1,11 @@
+{
+  "name": "ranchers_boots",
+  "category": "farming",
+  "ingredients": [
+    {"name": "farmer_boots"},
+    {"name": "polished_pumpkin", "count": 16}
+  ],
+  "result": {"name": "ranchers_boots"},
+  "copy_upgrades": true,
+  "collection_req": ["pumpkin", 11]
+}

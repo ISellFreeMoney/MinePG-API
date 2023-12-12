@@ -1,0 +1,12 @@
+{
+  "name": "warden_helmet",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revived_heart", "count": 2},
+    {"name": "warden_heart"},
+    {"name": "enchanted_iron_block", "count": 128}
+  ],
+  "result": {"name": "warden_helmet"},
+  "copy_upgrades": true,
+  "slayer_req": ["zombie", 8]
+}

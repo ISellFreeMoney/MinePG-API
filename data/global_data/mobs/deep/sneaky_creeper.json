@@ -1,0 +1,14 @@
+{
+  "name": "sneaky_creeper",
+  "level": 3,
+  "health": 120,
+  "damage": 80,
+  "coins": 3,
+  "exp": 3,
+  "combat_exp": 8,
+  "drops": [
+    [{"name": "gunpowder"}, 1, "common", 1],
+    [{"name": "exp_share_core"}, 1, "rngesus", 0.0001],
+    [{"name": "nyanza_dye"}, 1, "rngesus", 0.0000005]
+  ]
+}

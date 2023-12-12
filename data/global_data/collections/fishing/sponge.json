@@ -1,8 +1,15 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"fishing",
-	"levels": [
-
-	]
+  "name": "sponge",
+  "category": "fishing",
+  "levels": [
+    [20, "sponge_rod"],
+    [40, 4],
+    [100, "enchanted_sponge"],
+    [200, "sea_creature_talisman"],
+    [400, "stereo_pants"],
+    [800, "sea_creature_ring"],
+    [1500, "enchanted_wet_sponge"],
+    [2500, "sea_creature_artifact"],
+    [4000, "sponge_armor"]
+  ]
 }

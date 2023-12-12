@@ -1,0 +1,9 @@
+{
+  "name": "rampart_boots",
+  "rarity": "rare",
+  "part": "boots",
+  "health": 75,
+  "defense": 40,
+  "intelligence": 5,
+  "type": "armor"
+}

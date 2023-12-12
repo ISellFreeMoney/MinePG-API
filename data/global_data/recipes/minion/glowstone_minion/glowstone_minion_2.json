@@ -1,0 +1,11 @@
+{
+  "name": "glowstone_minion_2",
+  "category": "mining",
+  "ingredients": [
+    {"name": "glowstone_minion", "tier": 1},
+    {"name": "glowstone", "count": 256}
+  ],
+  "result": {"name": "glowstone_minion", "tier": 2},
+  "copy_upgrades": true,
+  "collection_req": ["glowstone", 1]
+}

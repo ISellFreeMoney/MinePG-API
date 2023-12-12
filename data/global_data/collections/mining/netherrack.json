@@ -1,8 +1,11 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"mining",
-	"levels": [
-
-	]
+  "name": "netherrack",
+  "category": "mining",
+  "levels": [
+    [50, 5],
+    [250, 25],
+    [500, 50],
+    [1000, "enchanted_netherrack"],
+    [5000, 500]
+  ]
 }

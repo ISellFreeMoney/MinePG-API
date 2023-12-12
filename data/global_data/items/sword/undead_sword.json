@@ -1,0 +1,7 @@
+{
+  "name": "undead_sword",
+  "rarity": "common",
+  "damage": 30,
+  "abilities": ["undead_sword"],
+  "type": "sword"
+}

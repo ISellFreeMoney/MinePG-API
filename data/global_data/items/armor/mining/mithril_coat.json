@@ -1,0 +1,9 @@
+{
+  "name": "mithril_coat",
+  "rarity": "epic",
+  "part": "chestplate",
+  "defense": 125,
+  "speed": 15,
+  "abilities": ["mithrils_protection"],
+  "type": "armor"
+}

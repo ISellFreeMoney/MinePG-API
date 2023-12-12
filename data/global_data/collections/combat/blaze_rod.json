@@ -1,14 +1,15 @@
 {
-	"name": "blaze_rod",
-	"category": "combat",
-	"levels": [
-		[50, "blaze_minion"],
-		[250, "fire_aspect_book"],
-		[1000, "enchanted_blaze_powder"],
-		[2500, ["fire_talisman", "blaze_belt"]],
-		[5000, "flame_book"],
-		[10000, ["enchanted_blaze_rod", "blaze_wax"]],
-		[25000, "blaze_armor"],
-		[50000, "blaze_pet"]
-	]
+  "name": "blaze_rod",
+  "category": "combat",
+  "levels": [
+    [50, "blaze_minion"],
+    [100, "blaze_hat"],
+    [250, "fire_aspect_book"],
+    [1000, "enchanted_blaze_powder"],
+    [2500, 250],
+    [5000, "flame_book"],
+    [10000, "enchanted_blaze_rod"],
+    [25000, "blaze_armor"],
+    [50000, "blaze_pet"]
+  ]
 }

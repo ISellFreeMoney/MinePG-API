@@ -1,0 +1,11 @@
+{
+  "name": "redstone_minion_5",
+  "category": "mining",
+  "ingredients": [
+    {"name": "redstone_minion", "tier": 4},
+    {"name": "enchanted_redstone", "count": 24}
+  ],
+  "result": {"name": "redstone_minion", "tier": 5},
+  "copy_upgrades": true,
+  "collection_req": ["redstone", 1]
+}

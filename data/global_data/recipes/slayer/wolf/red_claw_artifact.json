@@ -1,0 +1,13 @@
+{
+  "name": "red_claw_artifact",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "red_claw_ring"},
+    {"name": "red_claw_egg"},
+    {"name": "golden_tooth", "count": 54},
+    {"name": "enchanted_leather", "count": 128}
+  ],
+  "result": {"name": "red_claw_artifact"},
+  "copy_upgrades": true,
+  "slayer_req": ["wolf", 5]
+}

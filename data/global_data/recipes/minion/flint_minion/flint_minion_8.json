@@ -1,0 +1,11 @@
+{
+  "name": "flint_minion_8",
+  "category": "mining",
+  "ingredients": [
+    {"name": "flint_minion", "tier": 7},
+    {"name": "enchanted_flint", "count": 64}
+  ],
+  "result": {"name": "flint_minion", "tier": 8},
+  "copy_upgrades": true,
+  "collection_req": ["flint", 1]
+}

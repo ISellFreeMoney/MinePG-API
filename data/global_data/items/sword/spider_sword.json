@@ -1,0 +1,7 @@
+{
+  "name": "spider_sword",
+  "rarity": "common",
+  "damage": 30,
+  "abilities": ["spider_sword"],
+  "type": "sword"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nether_wart_minion_9",
+  "category": "farming",
+  "ingredients": [
+    {"name": "nether_wart_minion", "tier": 8},
+    {"name": "enchanted_nether_wart", "count": 128}
+  ],
+  "result": {"name": "nether_wart_minion", "tier": 9},
+  "copy_upgrades": true,
+  "collection_req": ["nether_wart", 1]
+}

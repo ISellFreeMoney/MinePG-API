@@ -1,0 +1,9 @@
+{
+  "name": "rampart_chestplate",
+  "rarity": "rare",
+  "part": "chestplate",
+  "health": 175,
+  "defense": 60,
+  "intelligence": 5,
+  "type": "armor"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "angler_chestplate",
+  "category": "fishing",
+  "ingredients": [{"name": "fish", "count": 8}],
+  "result": {"name": "angler_chestplate"},
+  "collection_req": ["fish", 5]
+}

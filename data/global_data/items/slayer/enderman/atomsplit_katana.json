@@ -1,0 +1,10 @@
+{
+  "name": "atomsplit_katana",
+  "rarity": "legendary",
+  "damage": 245,
+  "strength": 100,
+  "crit_damage": 30,
+  "intelligence": 300,
+  "slayer_req": ["enderman", 6],
+  "type": "sword"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "revenant_falchion",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "undead_sword"},
+    {"name": "undead_catalyst"},
+    {"name": "crystallized_heart"}
+  ],
+  "result": {"name": "revenant_falchion"},
+  "copy_upgrades": true,
+  "slayer_req": ["zombie", 3]
+}

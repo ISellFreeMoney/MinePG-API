@@ -1,0 +1,13 @@
+{
+  "name": "vorpal_katana",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "voidedge_katana"},
+    {"name": "null_edge"},
+    {"name": "null_ovoid", "count": 8},
+    {"name": "refined_mithril", "count": 8}
+  ],
+  "result": {"name": "vorpal_katana"},
+  "copy_upgrades": true,
+  "slayer_req": ["enderman", 5]
+}

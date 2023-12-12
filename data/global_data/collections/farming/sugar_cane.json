@@ -1,8 +1,15 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"farming",
-	"levels": [
-
-	]
+  "name": "sugar_cane",
+  "category": "farming",
+  "levels": [
+    [100, "sugar_cane_minion"],
+    [250, "speed_talisman"],
+    [500, 50],
+    [1000, "enchanted_sugar"],
+    [2000, ["enchanted_paper", "speed_ring"]],
+    [5000, "enchanted_bookshelf"],
+    [10000, 1000],
+    [25000, ["enchanted_sugar_cane", "speed_artifact"]],
+    [50000, "speedster_armor"]
+  ]
 }

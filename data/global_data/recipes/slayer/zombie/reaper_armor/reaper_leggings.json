@@ -1,0 +1,12 @@
+{
+  "name": "reaper_leggings",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revenant_leggings"},
+    {"name": "enchanted_diamond_block", "count": 6},
+    {"name": "revenant_viscera", "count": 128}
+  ],
+  "result": {"name": "reaper_leggings"},
+  "copy_upgrades": true,
+  "slayer_req": ["zombie", 7]
+}

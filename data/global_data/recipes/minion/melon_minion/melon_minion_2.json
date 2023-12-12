@@ -1,0 +1,11 @@
+{
+  "name": "melon_minion_2",
+  "category": "farming",
+  "ingredients": [
+    {"name": "melon_minion", "tier": 1},
+    {"name": "melon", "count": 512}
+  ],
+  "result": {"name": "melon_minion", "tier": 2},
+  "copy_upgrades": true,
+  "collection_req": ["melon", 1]
+}

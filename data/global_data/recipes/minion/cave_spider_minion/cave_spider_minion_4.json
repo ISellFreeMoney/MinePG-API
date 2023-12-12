@@ -1,0 +1,11 @@
+{
+  "name": "cave_spider_minion_4",
+  "category": "combat",
+  "ingredients": [
+    {"name": "cave_spider_minion", "tier": 3},
+    {"name": "spider_eye", "count": 512}
+  ],
+  "result": {"name": "cave_spider_minion", "tier": 4},
+  "copy_upgrades": true,
+  "collection_req": ["spider_eye", 1]
+}

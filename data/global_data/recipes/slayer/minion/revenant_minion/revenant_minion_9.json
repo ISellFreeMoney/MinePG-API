@@ -1,0 +1,12 @@
+{
+  "name": "revenant_minion_9",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "revenant_minion", "tier": 8},
+    {"name": "zombie_minion", "tier": 8},
+    {"name": "revenant_viscera", "count": 112}
+  ],
+  "result": {"name": "revenant_minion", "tier": 9},
+  "copy_upgrades": true,
+  "slayer_req": ["zombie", 5]
+}

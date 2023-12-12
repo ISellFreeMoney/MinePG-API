@@ -1,0 +1,11 @@
+{
+  "name": "inferno_minion_4",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "inferno_minion", "tier": 3},
+    {"name": "molten_powder", "count": 16}
+  ],
+  "result": {"name": "inferno_minion", "tier": 4},
+  "copy_upgrades": true,
+  "slayer_req": ["blaze", 3]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "rampart_helmet",
+  "rarity": "rare",
+  "part": "helmet",
+  "health": 100,
+  "defense": 45,
+  "intelligence": 15,
+  "type": "armor"
+}

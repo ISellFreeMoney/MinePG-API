@@ -1,0 +1,6 @@
+{
+  "name": "sorrow_chestplate",
+  "category": "mining",
+  "ingredients": [{"name": "sorrow", "count": 24}],
+  "result": {"name": "sorrow_chestplate"}
+}

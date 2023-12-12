@@ -1,8 +1,11 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"fishing",
-	"levels": [
-
-	]
+  "name": "clay",
+  "category": "fishing",
+  "levels": [
+    [50, "clay_minion"],
+    [100, "enchanted_clay"],
+    [250, 25],
+    [1000, "frail_book"],
+    [2500, 250]
+  ]
 }

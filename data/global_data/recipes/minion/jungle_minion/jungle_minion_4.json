@@ -1,0 +1,11 @@
+{
+  "name": "jungle_minion_4",
+  "category": "foraging",
+  "ingredients": [
+    {"name": "jungle_minion", "tier": 3},
+    {"name": "jungle_wood", "count": 512}
+  ],
+  "result": {"name": "jungle_minion", "tier": 4},
+  "copy_upgrades": true,
+  "collection_req": ["jungle_wood", 1]
+}

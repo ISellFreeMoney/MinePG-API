@@ -1,0 +1,7 @@
+{
+  "name": "end_sword",
+  "rarity": "uncommon",
+  "damage": 35,
+  "abilities": ["end_sword"],
+  "type": "sword"
+}

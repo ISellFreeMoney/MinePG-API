@@ -1,0 +1,11 @@
+{
+  "name": "spider_minion_8",
+  "category": "combat",
+  "ingredients": [
+    {"name": "spider_minion", "tier": 7},
+    {"name": "enchanted_string", "count": 64}
+  ],
+  "result": {"name": "spider_minion", "tier": 8},
+  "copy_upgrades": true,
+  "collection_req": ["string", 1]
+}

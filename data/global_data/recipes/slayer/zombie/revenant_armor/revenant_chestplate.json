@@ -1,0 +1,12 @@
+{
+  "name": "revenant_chestplate",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "zombie_chestplate"},
+    {"name": "revenant_viscera", "count": 3},
+    {"name": "enchanted_diamond", "count": 128}
+  ],
+  "result": {"name": "revenant_chestplate"},
+  "copy_upgrades": true,
+  "slayer_req": ["zombie", 5]
+}

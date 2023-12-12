@@ -1,0 +1,11 @@
+{
+  "name": "nether_wart_minion_2",
+  "category": "farming",
+  "ingredients": [
+    {"name": "nether_wart_minion", "tier": 1},
+    {"name": "nether_wart", "count": 160}
+  ],
+  "result": {"name": "nether_wart_minion", "tier": 2},
+  "copy_upgrades": true,
+  "collection_req": ["nether_wart", 1]
+}

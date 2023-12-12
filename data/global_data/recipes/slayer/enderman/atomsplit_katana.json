@@ -1,0 +1,11 @@
+{
+  "name": "atomsplit_katana",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "vorpal_katana"},
+    {"name": "null_blade", "count": 2}
+  ],
+  "result": {"name": "atomsplit_katana"},
+  "copy_upgrades": true,
+  "slayer_req": ["enderman", 6]
+}

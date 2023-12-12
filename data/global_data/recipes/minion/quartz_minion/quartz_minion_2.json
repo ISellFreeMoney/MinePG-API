@@ -1,0 +1,11 @@
+{
+  "name": "quartz_minion_2",
+  "category": "mining",
+  "ingredients": [
+    {"name": "quartz_minion", "tier": 1},
+    {"name": "quartz", "count": 160}
+  ],
+  "result": {"name": "quartz_minion", "tier": 2},
+  "copy_upgrades": true,
+  "collection_req": ["quartz", 1]
+}

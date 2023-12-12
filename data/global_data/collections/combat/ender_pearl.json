@@ -1,8 +1,15 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"combat",
-	"levels": [
-
-	]
+  "name": "ender_pearl",
+  "category": "combat",
+  "levels": [
+    [50, "enderman_minion"],
+    [250, "enchanted_ender_pearl"],
+    [1000, "ender_slayer_book"],
+    [2500, 250],
+    [5000, "ender_bow"],
+    [10000, "enchanted_ender_eye"],
+    [15000, 1500],
+    [25000, ["aspect_of_the_end", "absolute_ender_pearl"]],
+    [50000, "saving_grace"]
+  ]
 }

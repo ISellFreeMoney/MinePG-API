@@ -1,8 +1,14 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"combat",
-	"levels": [
-
-	]
+  "name": "magma_cream",
+  "category": "combat",
+  "levels": [
+    [50, "magma_cube_minion"],
+    [250, "fire_protection_book"],
+    [1000, "enchanted_magma_cream"],
+    [2500, 250],
+    [5000, 500],
+    [10000, 1000],
+    [25000, 2500],
+    [50000, "whipped_magma_cream"]
+  ]
 }

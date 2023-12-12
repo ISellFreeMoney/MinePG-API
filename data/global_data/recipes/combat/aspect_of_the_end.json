@@ -1,0 +1,10 @@
+{
+  "name": "aspect_of_the_end",
+  "category": "combat",
+  "ingredients": [
+    {"name": "enchanted_ender_eye", "count": 32},
+    {"name": "enchanted_diamond"}
+  ],
+  "result": {"name": "aspect_of_the_end"},
+  "collection_req": ["ender_pearl", 7]
+}

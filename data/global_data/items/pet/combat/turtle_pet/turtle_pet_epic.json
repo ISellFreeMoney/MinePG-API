@@ -1,0 +1,9 @@
+{
+  "name": "turtle_pet",
+  "rarity": "epic",
+  "category": "combat",
+  "health": 50,
+  "defense": 100,
+  "abilities": ["turtle_tactics"],
+  "type": "pet"
+}

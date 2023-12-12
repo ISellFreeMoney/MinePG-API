@@ -1,0 +1,11 @@
+{
+  "name": "emerald_minion_10",
+  "category": "mining",
+  "ingredients": [
+    {"name": "emerald_minion", "tier": 9},
+    {"name": "enchanted_emerald", "count": 512}
+  ],
+  "result": {"name": "emerald_minion", "tier": 10},
+  "copy_upgrades": true,
+  "collection_req": ["emerald", 1]
+}

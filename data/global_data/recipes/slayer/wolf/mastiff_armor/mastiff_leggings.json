@@ -1,0 +1,12 @@
+{
+  "name": "mastiff_leggings",
+  "category": "slayer",
+  "ingredients": [
+    {"name": "growth_leggings"},
+    {"name": "wolf_tooth", "count": 4},
+    {"name": "enchanted_diamond", "count": 64}
+  ],
+  "result": {"name": "mastiff_leggings"},
+  "copy_upgrades": true,
+  "slayer_req": ["wolf", 4]
+}

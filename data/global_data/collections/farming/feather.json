@@ -1,8 +1,15 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"farming",
-	"levels": [
-
-	]
+  "name": "feather",
+  "category": "farming",
+  "levels": [
+    [50, "projectile_protection_book"],
+    [100, 10],
+    [250, 25],
+    [1000, "feather_talisman"],
+    [2500, "enchanted_feather"],
+    [5000, 500],
+    [10000, "feather_ring"],
+    [25000, 2500],
+    [50000, "feather_artifact"]
+  ]
 }

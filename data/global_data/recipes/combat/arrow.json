@@ -1,0 +1,10 @@
+{
+  "name": "arrow",
+  "category": "combat",
+  "ingredients": [
+    {"name": "flint"},
+    {"name": "stick"},
+    {"name": "feather"}
+  ],
+  "result": {"name": "arrow", "count": 4}
+}

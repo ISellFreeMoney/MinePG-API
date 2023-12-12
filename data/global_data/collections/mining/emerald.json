@@ -1,8 +1,15 @@
 {
-	"name": "",
-	"display_name": "",
-	"category":"mining",
-	"levels": [
-
-	]
+  "name": "emerald",
+  "category": "mining",
+  "levels": [
+    [50, "emerald_minion"],
+    [100, 10],
+    [250, 25],
+    [1000, "enchanted_emerald"],
+    [5000, "emerald_ring"],
+    [15000, 1500],
+    [30000, "enchanted_emerald_block"],
+    [50000, "emerald_blade"],
+    [100000, "emerald_armor"]
+  ]
 }
